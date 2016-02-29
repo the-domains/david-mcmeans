@@ -1,0 +1,28 @@
+name: David McMeans
+favicon: null
+layout_spectrum: 0.7377589768730104
+typography_spectrum: 0.9188475306145847
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.141623628558591
+  lightness: 0.020385575015097857
+  saturation: 0.2693363386206329
+  rhythmicContrast: 0.5255003836937249
+purpose: []
